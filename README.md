@@ -1,6 +1,6 @@
-#####This application allows a user to add, edit and delete their favorite bookmarks.
+##### This application allows a user to add, edit and delete their favorite bookmarks.
 
-###User Stories
+### User Stories
 
 **As a user:**
 
