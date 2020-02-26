@@ -1,4 +1,4 @@
-https://andreacardybailey.github.io/Sample_bookmarks_submission/
+https://andreacardybailey.github.io/andrea-bookmarks-app/
 
 ##### This application allows a user to add, edit and delete their favorite bookmarks.
 
